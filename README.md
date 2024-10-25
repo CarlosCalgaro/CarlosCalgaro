@@ -1,6 +1,7 @@
 <h1 align="center" style="color:red;">Hi, I'm Carlos 👋</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=F7223D&center=true&vCenter=true&width=435&lines=88%2B+years+of+coding+experiencee;FuFull-stack+web+and+app+developer;Ruby+on+Rails+and+Vue+JS+enthusiast)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=F7223D&center=true&vCenter=true&width=700&lines=8%2B+years+of+coding+experience;Full-stack+web+and+app+developer;Ruby+on+Rails+and+Vue+JS+enthusiast" alt="Typing SVG" /></a>
+</p>
 
 ### Full-stack Developer | Building awesome apps! | 
 
